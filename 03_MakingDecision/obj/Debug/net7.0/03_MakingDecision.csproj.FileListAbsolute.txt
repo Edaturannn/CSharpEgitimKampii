@@ -1,0 +1,15 @@
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.csproj.AssemblyReference.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.AssemblyInfoInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.AssemblyInfo.cs
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision.deps.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision.runtimeconfig.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/bin/Debug/net7.0/03_MakingDecision.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/refint/03_MakingDecision.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/03_MakingDecision.genruntimeconfig.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/03_MakingDecision/obj/Debug/net7.0/ref/03_MakingDecision.dll

@@ -1,0 +1,15 @@
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/bin/Debug/net7.0/02_Variables
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/bin/Debug/net7.0/02_Variables.deps.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/bin/Debug/net7.0/02_Variables.runtimeconfig.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/bin/Debug/net7.0/02_Variables.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/bin/Debug/net7.0/02_Variables.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/02_Variables.csproj.AssemblyReference.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/02_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/02_Variables.AssemblyInfoInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/02_Variables.AssemblyInfo.cs
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/02_Variables.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/02_Variables.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/refint/02_Variables.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/02_Variables.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/02_Variables.genruntimeconfig.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/02_Variables/obj/Debug/net7.0/ref/02_Variables.dll

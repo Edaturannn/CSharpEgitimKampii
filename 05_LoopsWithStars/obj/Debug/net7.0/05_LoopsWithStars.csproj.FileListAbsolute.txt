@@ -1,0 +1,15 @@
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars.deps.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars.runtimeconfig.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/bin/Debug/net7.0/05_LoopsWithStars.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.csproj.AssemblyReference.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.AssemblyInfoInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.AssemblyInfo.cs
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/refint/05_LoopsWithStars.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/05_LoopsWithStars.genruntimeconfig.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/05_LoopsWithStars/obj/Debug/net7.0/ref/05_LoopsWithStars.dll

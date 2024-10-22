@@ -1,0 +1,15 @@
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/bin/Debug/net7.0/07_ForeachLoop
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/bin/Debug/net7.0/07_ForeachLoop.deps.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/bin/Debug/net7.0/07_ForeachLoop.runtimeconfig.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/bin/Debug/net7.0/07_ForeachLoop.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/bin/Debug/net7.0/07_ForeachLoop.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/07_ForeachLoop.csproj.AssemblyReference.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/07_ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/07_ForeachLoop.AssemblyInfoInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/07_ForeachLoop.AssemblyInfo.cs
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/07_ForeachLoop.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/07_ForeachLoop.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/refint/07_ForeachLoop.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/07_ForeachLoop.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/07_ForeachLoop.genruntimeconfig.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/07_ForeachLoop/obj/Debug/net7.0/ref/07_ForeachLoop.dll

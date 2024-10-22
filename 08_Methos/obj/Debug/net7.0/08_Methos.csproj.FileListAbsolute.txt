@@ -1,0 +1,15 @@
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/bin/Debug/net7.0/08_Methos
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/bin/Debug/net7.0/08_Methos.deps.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/bin/Debug/net7.0/08_Methos.runtimeconfig.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/bin/Debug/net7.0/08_Methos.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/bin/Debug/net7.0/08_Methos.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/08_Methos.csproj.AssemblyReference.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/08_Methos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/08_Methos.AssemblyInfoInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/08_Methos.AssemblyInfo.cs
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/08_Methos.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/08_Methos.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/refint/08_Methos.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/08_Methos.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/08_Methos.genruntimeconfig.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/08_Methos/obj/Debug/net7.0/ref/08_Methos.dll

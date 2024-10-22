@@ -1,0 +1,15 @@
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops.deps.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops.runtimeconfig.json
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/bin/Debug/net7.0/04_Loops.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.csproj.AssemblyReference.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.AssemblyInfoInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.AssemblyInfo.cs
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.csproj.CoreCompileInputs.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/refint/04_Loops.dll
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.pdb
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/04_Loops.genruntimeconfig.cache
+/Users/eda/Desktop/CSharpEgitimKampii/CSharpEgitimKampi/04_Loops/obj/Debug/net7.0/ref/04_Loops.dll
